@@ -133,8 +133,8 @@ const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center",
   },
-  cameraContainer: StyleSheet.absoluteFillObject,
-  camera: StyleSheet.absoluteFillObject,
+  cameraContainer: StyleSheet.absoluteFill,
+  camera: StyleSheet.absoluteFill,
   shutterContainer: {
     position: "absolute",
     bottom: 44,
