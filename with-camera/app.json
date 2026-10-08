@@ -1,5 +1,16 @@
 {
   "plugins": [
     "expo-image"
-  ]
+  ],
+  "expo": {
+    "ios": {
+      "bundleIdentifier": "com.draftbit.newapp",
+      "buildNumber": "1"
+    },
+    "android": {
+      "package": "com.draftbit.newapp",
+      "versionCode": 1
+    },
+    "version": "1.0.0"
+  }
 }
